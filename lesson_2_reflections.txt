@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A .git directory is created. I need it when I want to use versionning on some files
